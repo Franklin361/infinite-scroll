@@ -55,6 +55,6 @@ This time, we are going to implement the infinite scroll layout using React JS a
 
 ### Here's the link to the tutorial in case you'd like to take a look at it! eyes 👀
 
-- 🇲🇽 🔗 
+- 🇲🇽 🔗 https://dev.to/franklin030601/creando-un-scroll-infinito-con-react-js-27gf
 
-- 🇺🇲 🔗 
+- 🇺🇲 🔗 https://dev.to/franklin030601/creating-an-infinite-scroll-with-react-js-4in5
